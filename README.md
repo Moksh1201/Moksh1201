@@ -5,7 +5,7 @@
 
 <p align="center">
   <h1>Hey Fellow Coder! 👋 Hope you're having a great day!</h1>
-  <h3>I'm Moksh, a Passionate Software Engineer with a Focus on AI and IoT</h3>
+  <h3>I'm Moksh, a Passionate Software Engineer with a Focus on Full Stack and DevOps</h3>
 </p>
 
 <!-- Coding GIF -->
