@@ -36,7 +36,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
     <a href="https://www.instagram.com/moksh_madaan/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
-    <a href="https://twitter.com/mokshmadaan" target="_blank">
+    <a href="https://x.com/Moksh_0327" target="_blank">
         <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fmokshmadaan" /></a>
 </p>
 
@@ -118,6 +118,24 @@
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Moksh1201&column=8&margin-w=10&margin-h=20&no-frame=false&theme=discord&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues,Experience)](https://github.com/Moksh1201) 
 </div>
 
+
+---
+
+<details open align="center">
+  <summary>📁 My Repositories</summary>
+  <br>
+  <p align="center">
+
+[![Blogging-Application -IGloo](https://github-readme-stats.vercel.app/api/pin/?username=Moksh1201\&repo=BloggingApplicationIgloo\&theme=algolia)](https://github.com/Moksh1201/BloggingApplicationIgloo)
+[![Blood-Donation](https://github-readme-stats.vercel.app/api/pin/?username=Moksh1201\&repo=BloodDonation-Part1\&theme=algolia)](https://github.com/Moksh1201/BloodDonation-Part1)
+<!-- [![MediKart](https://github-readme-stats.vercel.app/api/pin?username=Moksh1201\&repo=MediKart\&theme=holi)](https://github.com/Moksh1201/MediKart)-->
+[![Socia-Media-API](https://github-readme-stats.vercel.app/api/pin?username=Moksh1201\&repo=Social-Media\&theme=holi)](https://github.com/Moksh1201/Social-Media)
+<!-- [![mongdb_express_Movies_api_using_openai Card](https://github-readme-stats.vercel.app/api/pin?username=Moksh1201\&repo=mongdb_express_Movies_api_using_openai\&theme=github_dark)](https://github.com/Moksh1201/mongdb_express_Movies_api_using_openai) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+[![ALL REPOS](https://github-contributor-stats.vercel.app/api?username=Moksh1201&limit=6&theme=algolia&combine_all_yearly_contributions=true&hide=NK-Works)](https://github.com/Moksh1201?tab=repositories&q=&type=&language=&sort=stargazers)
+
+### Show some 💙 by starring ⭐ some of the repositories!
+<br/>
 
 ---
 
