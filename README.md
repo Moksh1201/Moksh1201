@@ -118,6 +118,12 @@
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Moksh1201&column=8&margin-w=10&margin-h=20&no-frame=false&theme=discord&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues,Experience)](https://github.com/Moksh1201) 
 </div>
 
+<!--SNAKE-->
+<p align="center">
+<a href="https://github.com/Moksh1201">
+   <img alt="github-snake" src="https://raw.githubusercontent.com/Moksh1201/Moksh1201/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
+</a>
+</p>
 
 ---
 
