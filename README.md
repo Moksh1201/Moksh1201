@@ -30,11 +30,11 @@
 
 ### 💬 Connect with Me:
 <p align="center">
-    <a href="https://www.linkedin.com/in/mokshmadaan" target="_blank">
+    <a href="https://www.linkedin.com/in/moksh-607b692b2/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:mokshmadaan27@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.instagram.com/moksh_madaan/" target="_blank">
+    <a href="https://www.instagram.com/madaanmoksh/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
     <a href="https://x.com/Moksh_0327" target="_blank">
         <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fmokshmadaan" /></a>
