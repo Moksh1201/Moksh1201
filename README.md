@@ -128,7 +128,7 @@
 
 [![Blogging-Application -IGloo](https://github-readme-stats.vercel.app/api/pin/?username=Moksh1201\&repo=BloggingApplicationIgloo\&theme=algolia)](https://github.com/Moksh1201/BloggingApplicationIgloo)
 [![Blood-Donation](https://github-readme-stats.vercel.app/api/pin/?username=Moksh1201\&repo=BloodDonation-Part1\&theme=algolia)](https://github.com/Moksh1201/BloodDonation-Part1)
-[![MediKart](https://github-readme-stats.vercel.app/api/pin?username=Moksh1201\&repo=MediKart\&theme=holi)](https://github.com/Moksh1201/MediKart)
+<!--[![MediKart](https://github-readme-stats.vercel.app/api/pin?username=Moksh1201\&repo=MediKart\&theme=holi)](https://github.com/Moksh1201/MediKart)-->
 [![Socia-Media-API](https://github-readme-stats.vercel.app/api/pin?username=Moksh1201\&repo=Social-Media\&theme=holi)](https://github.com/Moksh1201/Social-Media)
 <!-- [![mongdb_express_Movies_api_using_openai Card](https://github-readme-stats.vercel.app/api/pin?username=Moksh1201\&repo=mongdb_express_Movies_api_using_openai\&theme=github_dark)](https://github.com/Moksh1201/mongdb_express_Movies_api_using_openai) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
