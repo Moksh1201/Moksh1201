@@ -96,7 +96,7 @@
 
 <p align="center">
 <a href="https://github.com/Moksh1201">
-   <img alt="github-snake" src="https://raw.githubusercontent.com/Moksh1201/Moksh1201/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
+   <img alt="github-snake" src="https://github.com/moksh1201/moksh1201/blob/output/github-snake-dark.svg" title="🐍 Watch how the snake's eating my contributions" />
 </a>
 </p>
 
@@ -120,7 +120,7 @@
 
 <!--SNAKE-->
 
-![snake gif](https://github.com/moksh1201/moksh1201/blob/output/github-snake-dark.svg)
+<!--![snake gif](https://github.com/moksh1201/moksh1201/blob/output/github-snake-dark.svg)-->
 
 
 
