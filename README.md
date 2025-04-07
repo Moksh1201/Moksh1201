@@ -119,11 +119,9 @@
 </div>
 
 <!--SNAKE-->
-<p align="center">
-<a href="https://github.com/Moksh1201">
-   <img alt="github-snake" src="https://raw.githubusercontent.com/Moksh1201/Moksh1201/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
-</a>
-</p>
+
+![snake gif](https://github.com/moksh1201/moksh1201/blob/output/github-snake-dark.svg)
+
 
 
 ---
@@ -143,6 +141,13 @@
 
 ---
 
+## 🍵✨ Buy Me a Tea ✨🍵
+
 <p align="center">
-    <img src="https://media.giphy.com/media/xT5LMXHucE7QmAXdsa/giphy.gif" width="80">
+  <a href="img/qr.jpeg" target="_blank">
+    <href src="img/qr.jpeg" alt="Buy Me a Tea QR" width="220" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+    🌟🌼 Thank you so much for your kindness! 🌼🌟
+  </a>
 </p>
+
+
